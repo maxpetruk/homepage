@@ -10,3 +10,5 @@ html
 css
 binary-studio-academy
 bsa22
+
+🧙Hocus-pocus!
